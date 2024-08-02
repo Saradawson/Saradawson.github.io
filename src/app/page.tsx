@@ -28,7 +28,7 @@ export default function Home() {
                 height={50}/>
               </Link>
               <Link
-              href="https://www.linkedin.com/in/sara-dawson13/">
+              href="https://github.com/Saradawson">
                 <Image
                 src="/githubIcon.png"
                 alt="Github icon by Icons8"
